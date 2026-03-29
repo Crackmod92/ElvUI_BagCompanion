@@ -3,6 +3,12 @@
 
 # ElvUI BagCompanion (Ascension WoW)
 
+<p align="center">
+  <img width="348" height="78" alt="Описание" src="https://github.com/user-attachments/assets/7572dbcc-b7da-4648-ad46-deb2225dda25" />
+</p>
+
+
+
 **ElvUI BagCompanion** is a lightweight, feature-rich addon designed for the [Ascension WoW](https://ascension.gg/) client. It provides a convenient toolbar for managing your inventory, banking, and vendor interactions directly within the ElvUI interface.
 
 ### Features
