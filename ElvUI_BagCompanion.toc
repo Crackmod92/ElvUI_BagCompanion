@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff1784d1ElvUI|r Bag Companion
+## Notes: All-in-one inventory management for ElvUI.
+## Author: Crackmod
+## RequiredDeps: ElvUI
+## SavedVariables: ElvUI_BagCompanionDB
+
+ElvUI_BagCompanion.lua
